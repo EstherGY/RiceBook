@@ -1,0 +1,31 @@
+.heading{
+    color: lightseagreen;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+textarea{
+    width: 500px;
+    height:400px;
+}
+
+.container{
+    display: flex;
+}
+
+.profile{
+    text-align: center;
+    background: lightpink;
+}
+
+.side{
+    background: lightsalmon;
+}
+
+.post{
+    background:lightblue;
+}

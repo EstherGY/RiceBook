@@ -1,0 +1,20 @@
+.heading{
+    color: lightseagreen;
+}
+
+.profilePic{
+    background: lightpink;
+}
+
+.personalInfo{
+    background: lightsalmon;
+}
+
+.updateInfo{
+    background: lightblue;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
